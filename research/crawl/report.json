@@ -1,0 +1,12 @@
+{
+  "reviewDate": "2026-10-20",
+  "listVariants": 38,
+  "uniqueLinkedItems": 634,
+  "parsedItems": 634,
+  "questPages": 110,
+  "errors": {
+    "/quest/79242": "HTTP Error 404: Not Found"
+  },
+  "source": "https://foreverchanges.pro/bis",
+  "notClientTested": true
+}

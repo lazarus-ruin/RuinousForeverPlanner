@@ -1,0 +1,35 @@
+## Interface: 16001
+## Title: Ruinous Forever Planner
+## Notes: Offline progression planner with explicit partial data coverage.
+## Author: Prototype
+## Version: 0.22.0
+## OptionalDeps: QuestieDB
+## SavedVariables: RuinousForeverPlannerDB
+Data.lua
+SourceData.lua
+Catalog.lua
+Core.lua
+Inspection.lua
+EnchantData.lua
+Enchants.lua
+Upgrades.lua
+EquipmentModel.lua
+ClassGuidance.lua
+AutoProfile.lua
+ProfessionData.lua
+Professions.lua
+Baseline.lua
+ClassQuests.lua
+SellAdvisor.lua
+Quests.lua
+Planner.lua
+Optimization.lua
+EfficiencyData.lua
+Efficiency.lua
+SessionSample.lua
+Route.lua
+NextAction.lua
+Diagnostics.lua
+UI.lua
+Controls.lua
+ItemTooltips.lua

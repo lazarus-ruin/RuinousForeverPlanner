@@ -1,0 +1,1937 @@
+{
+  "1014": {
+    "id": 1014,
+    "name": "Arugal Must Die",
+    "source": "https://foreverchanges.pro/quest/1014",
+    "faction": "Horde",
+    "minLevel": 18,
+    "rewardIDs": [
+      5442,
+      6414
+    ],
+    "chainLinks": []
+  },
+  "1050": {
+    "id": 1050,
+    "name": "Mythology of the Titans",
+    "source": "https://foreverchanges.pro/quest/1050",
+    "faction": "Alliance",
+    "minLevel": 28,
+    "rewardIDs": [
+      5536,
+      7746
+    ],
+    "chainLinks": []
+  },
+  "1051": {
+    "id": 1051,
+    "name": "Vorrel's Revenge",
+    "source": "https://foreverchanges.pro/quest/1051",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      4643,
+      5538,
+      7750,
+      7751
+    ],
+    "chainLinks": []
+  },
+  "1089": {
+    "id": 1089,
+    "name": "The Den",
+    "source": "https://foreverchanges.pro/quest/1089",
+    "faction": "Horde",
+    "minLevel": 20,
+    "rewardIDs": [
+      5689,
+      5690,
+      5691,
+      6669,
+      6670,
+      6671
+    ],
+    "chainLinks": [
+      1087,
+      1088
+    ]
+  },
+  "1098": {
+    "id": 1098,
+    "name": "Deathstalkers in Shadowfang",
+    "source": "https://foreverchanges.pro/quest/1098",
+    "faction": "Horde",
+    "minLevel": 18,
+    "rewardIDs": [
+      3324,
+      270023,
+      270024
+    ],
+    "chainLinks": []
+  },
+  "1101": {
+    "id": 1101,
+    "name": "The Crone of the Kraul",
+    "source": "https://foreverchanges.pro/quest/1101",
+    "faction": "Alliance",
+    "minLevel": 29,
+    "rewardIDs": [
+      4197,
+      5792,
+      6725,
+      6742,
+      274084
+    ],
+    "chainLinks": [
+      1100
+    ]
+  },
+  "1102": {
+    "id": 1102,
+    "name": "A Vengeful Fate",
+    "source": "https://foreverchanges.pro/quest/1102",
+    "faction": "Horde",
+    "minLevel": 29,
+    "rewardIDs": [
+      4197,
+      5793,
+      6725,
+      6742,
+      274084
+    ],
+    "chainLinks": []
+  },
+  "1136": {
+    "id": 1136,
+    "name": "Frostmaw",
+    "source": "https://foreverchanges.pro/quest/1136",
+    "faction": "Horde",
+    "minLevel": 26,
+    "rewardIDs": [
+      5811,
+      5838,
+      6720
+    ],
+    "chainLinks": [
+      1130,
+      1131
+    ]
+  },
+  "1137": {
+    "id": 1137,
+    "name": "News for Fizzle",
+    "source": "https://foreverchanges.pro/quest/1137",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      6729,
+      6732
+    ],
+    "chainLinks": [
+      1106,
+      1108,
+      1190,
+      1192,
+      1194
+    ]
+  },
+  "1142": {
+    "id": 1142,
+    "name": "Mortality Wanes",
+    "source": "https://foreverchanges.pro/quest/1142",
+    "faction": "Alliance",
+    "minLevel": 25,
+    "rewardIDs": [
+      5825,
+      6751,
+      6752,
+      270047
+    ],
+    "chainLinks": []
+  },
+  "1144": {
+    "id": 1144,
+    "name": "Willix the Importer",
+    "source": "https://foreverchanges.pro/quest/1144",
+    "faction": null,
+    "minLevel": 22,
+    "rewardIDs": [
+      6748,
+      6749,
+      6750,
+      274078
+    ],
+    "chainLinks": []
+  },
+  "1049": {
+    "id": 1049,
+    "name": "Compendium of the Fallen",
+    "source": "https://foreverchanges.pro/quest/1049",
+    "faction": "Horde",
+    "minLevel": 28,
+    "rewardIDs": [
+      5535,
+      7747,
+      7749,
+      17508
+    ],
+    "chainLinks": []
+  },
+  "1149": {
+    "id": 1149,
+    "name": "Test of Faith",
+    "source": "https://foreverchanges.pro/quest/1149",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      6804,
+      6806
+    ],
+    "chainLinks": [
+      1150,
+      1151,
+      1152,
+      1154,
+      1159,
+      1160,
+      1394,
+      6627,
+      6628
+    ]
+  },
+  "1164": {
+    "id": 1164,
+    "name": "To Steal From Thieves",
+    "source": "https://foreverchanges.pro/quest/1164",
+    "faction": "Horde",
+    "minLevel": 27,
+    "rewardIDs": [
+      2032,
+      4443,
+      5830,
+      5831,
+      5832
+    ],
+    "chainLinks": []
+  },
+  "1189": {
+    "id": 1189,
+    "name": "Safety First",
+    "source": "https://foreverchanges.pro/quest/1189",
+    "faction": null,
+    "minLevel": 29,
+    "rewardIDs": [
+      5865,
+      6726,
+      6727
+    ],
+    "chainLinks": [
+      1176,
+      1178,
+      1180,
+      1181,
+      1182,
+      1183,
+      1186,
+      1187,
+      1188
+    ]
+  },
+  "1176": {
+    "id": 1176,
+    "name": "Load Lightening",
+    "source": "https://foreverchanges.pro/quest/1176",
+    "faction": null,
+    "minLevel": 29,
+    "rewardIDs": [
+      5848,
+      6726,
+      6727
+    ],
+    "chainLinks": [
+      1178,
+      1180,
+      1181,
+      1182,
+      1183,
+      1186,
+      1187,
+      1188,
+      1189
+    ]
+  },
+  "1203": {
+    "id": 1203,
+    "name": "Jarl Needs a Blade",
+    "source": "https://foreverchanges.pro/quest/1203",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      3853,
+      5016,
+      6807,
+      9622,
+      270052
+    ],
+    "chainLinks": [
+      1206,
+      1218
+    ]
+  },
+  "1200": {
+    "id": 1200,
+    "name": "Blackfathom Villainy",
+    "source": "https://foreverchanges.pro/quest/1200",
+    "faction": "Alliance",
+    "minLevel": 18,
+    "rewardIDs": [
+      5881,
+      7001,
+      7002,
+      270031,
+      270032
+    ],
+    "chainLinks": [
+      1198
+    ]
+  },
+  "1238": {
+    "id": 1238,
+    "name": "The Lost Report",
+    "source": "https://foreverchanges.pro/quest/1238",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      5917,
+      18585,
+      18586
+    ],
+    "chainLinks": [
+      1239,
+      1240,
+      1261,
+      1262,
+      7541
+    ]
+  },
+  "1394": {
+    "id": 1394,
+    "name": "Final Passage",
+    "source": "https://foreverchanges.pro/quest/1394",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      6804,
+      6806
+    ],
+    "chainLinks": [
+      1149,
+      1150,
+      1151,
+      1152,
+      1154,
+      1159,
+      1160,
+      6627,
+      6628
+    ]
+  },
+  "1273": {
+    "id": 1273,
+    "name": "Questioning Reethe",
+    "source": "https://foreverchanges.pro/quest/1273",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      6797,
+      6798
+    ],
+    "chainLinks": [
+      1269
+    ]
+  },
+  "1366": {
+    "id": 1366,
+    "name": "Centaur Bounty",
+    "source": "https://foreverchanges.pro/quest/1366",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      6067,
+      6780,
+      6784
+    ],
+    "chainLinks": [
+      1365
+    ]
+  },
+  "1436": {
+    "id": 1436,
+    "name": "Alliance Relations",
+    "source": "https://foreverchanges.pro/quest/1436",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      6744,
+      6745
+    ],
+    "chainLinks": [
+      1431,
+      1432,
+      1433,
+      1435
+    ]
+  },
+  "1440": {
+    "id": 1440,
+    "name": "Return to Vahlarriel",
+    "source": "https://foreverchanges.pro/quest/1440",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      9687,
+      9698,
+      9699,
+      11884
+    ],
+    "chainLinks": [
+      1437,
+      1438,
+      1439,
+      1465
+    ]
+  },
+  "1457": {
+    "id": 1457,
+    "name": "The Karnitol Shipwreck",
+    "source": "https://foreverchanges.pro/quest/1457",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      6245,
+      6791,
+      6792
+    ],
+    "chainLinks": [
+      1453,
+      1454,
+      1455,
+      1456
+    ]
+  },
+  "1467": {
+    "id": 1467,
+    "name": "Reagents for Reclaimers Inc.",
+    "source": "https://foreverchanges.pro/quest/1467",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      6253,
+      6793,
+      6794
+    ],
+    "chainLinks": [
+      1453,
+      1458,
+      1459,
+      1466
+    ]
+  },
+  "1488": {
+    "id": 1488,
+    "name": "The Corrupter",
+    "source": "https://foreverchanges.pro/quest/1488",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      6746,
+      6747
+    ],
+    "chainLinks": [
+      1480,
+      1481,
+      1482,
+      1484
+    ]
+  },
+  "166": {
+    "id": 166,
+    "name": "The Defias Brotherhood",
+    "source": "https://foreverchanges.pro/quest/166",
+    "faction": "Alliance",
+    "minLevel": 14,
+    "rewardIDs": [
+      2041,
+      2042,
+      3637,
+      6087
+    ],
+    "chainLinks": [
+      65,
+      132,
+      135,
+      141,
+      142,
+      155
+    ]
+  },
+  "1782": {
+    "id": 1782,
+    "name": "Furen's Armor",
+    "source": "https://foreverchanges.pro/quest/1782",
+    "faction": "Alliance",
+    "minLevel": 20,
+    "rewardIDs": [
+      6970,
+      6972
+    ],
+    "chainLinks": [
+      1698,
+      1699,
+      1701,
+      1702
+    ]
+  },
+  "1848": {
+    "id": 1848,
+    "name": "Brutal Hauberk",
+    "source": "https://foreverchanges.pro/quest/1848",
+    "faction": "Horde",
+    "minLevel": 20,
+    "rewardIDs": [
+      7120,
+      7133
+    ],
+    "chainLinks": [
+      1823,
+      1824,
+      1825,
+      1838
+    ]
+  },
+  "185": {
+    "id": 185,
+    "name": "Tiger Mastery",
+    "source": "https://foreverchanges.pro/quest/185",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      4107,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      186,
+      187,
+      188,
+      208,
+      583
+    ]
+  },
+  "188": {
+    "id": 188,
+    "name": "Tiger Mastery",
+    "source": "https://foreverchanges.pro/quest/188",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      3879,
+      4107,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      185,
+      186,
+      187,
+      208,
+      583
+    ]
+  },
+  "193": {
+    "id": 193,
+    "name": "Panther Mastery",
+    "source": "https://foreverchanges.pro/quest/193",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      3876,
+      4108,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      190,
+      191,
+      192,
+      208,
+      583
+    ]
+  },
+  "194": {
+    "id": 194,
+    "name": "Raptor Mastery",
+    "source": "https://foreverchanges.pro/quest/194",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      4119,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      195,
+      196,
+      197,
+      208,
+      583
+    ]
+  },
+  "1952": {
+    "id": 1952,
+    "name": "Mage's Wand",
+    "source": "https://foreverchanges.pro/quest/1952",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      7513,
+      7514,
+      11263
+    ],
+    "chainLinks": [
+      1947,
+      1949,
+      1950,
+      1951
+    ]
+  },
+  "197": {
+    "id": 197,
+    "name": "Raptor Mastery",
+    "source": "https://foreverchanges.pro/quest/197",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      3877,
+      4119,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      194,
+      195,
+      196,
+      208,
+      583
+    ]
+  },
+  "202": {
+    "id": 202,
+    "name": "Colonel Kurzen",
+    "source": "https://foreverchanges.pro/quest/202",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      3615,
+      4125,
+      4127,
+      270070,
+      270071
+    ],
+    "chainLinks": [
+      203,
+      206,
+      574
+    ]
+  },
+  "1740": {
+    "id": 1740,
+    "name": "The Orb of Soran'ruk",
+    "source": "https://foreverchanges.pro/quest/1740",
+    "faction": null,
+    "minLevel": 20,
+    "rewardIDs": [
+      6898,
+      6914,
+      6915,
+      15109
+    ],
+    "chainLinks": []
+  },
+  "1792": {
+    "id": 1792,
+    "name": "Whirlwind Weapon",
+    "source": "https://foreverchanges.pro/quest/1792",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      6975,
+      6976,
+      6977
+    ],
+    "chainLinks": [
+      1712,
+      1713,
+      1718,
+      1719,
+      1791
+    ]
+  },
+  "231": {
+    "id": 231,
+    "name": "A Daughter's Love",
+    "source": "https://foreverchanges.pro/quest/231",
+    "faction": "Alliance",
+    "minLevel": 28,
+    "rewardIDs": [
+      2000,
+      2154,
+      2162,
+      270051
+    ],
+    "chainLinks": [
+      225,
+      227,
+      228,
+      229
+    ]
+  },
+  "208": {
+    "id": 208,
+    "name": "Big Game Hunter",
+    "source": "https://foreverchanges.pro/quest/208",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      3880,
+      4107,
+      4108,
+      4119,
+      17686,
+      17687,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      185,
+      186,
+      187,
+      188,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      583
+    ]
+  },
+  "2418": {
+    "id": 2418,
+    "name": "Power Stones",
+    "source": "https://foreverchanges.pro/quest/2418",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      8009,
+      8052,
+      9522,
+      10358,
+      10359,
+      270055
+    ],
+    "chainLinks": []
+  },
+  "253": {
+    "id": 253,
+    "name": "Bride of the Embalmer",
+    "source": "https://foreverchanges.pro/quest/253",
+    "faction": "Alliance",
+    "minLevel": 20,
+    "rewardIDs": [
+      2382,
+      3248,
+      3560,
+      6223,
+      270044
+    ],
+    "chainLinks": [
+      133,
+      134,
+      148,
+      149,
+      154,
+      156,
+      157,
+      158,
+      159,
+      160,
+      165,
+      251,
+      252,
+      254,
+      401
+    ]
+  },
+  "2841": {
+    "id": 2841,
+    "name": "Rig Wars",
+    "source": "https://foreverchanges.pro/quest/2841",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      9153,
+      9173,
+      9299,
+      9623,
+      9624,
+      9625
+    ],
+    "chainLinks": [
+      2842,
+      2843
+    ]
+  },
+  "2904": {
+    "id": 2904,
+    "name": "A Fine Mess",
+    "source": "https://foreverchanges.pro/quest/2904",
+    "faction": null,
+    "minLevel": 20,
+    "rewardIDs": [
+      9535,
+      9536,
+      270042
+    ],
+    "chainLinks": []
+  },
+  "2929": {
+    "id": 2929,
+    "name": "The Grand Betrayal",
+    "source": "https://foreverchanges.pro/quest/2929",
+    "faction": "Alliance",
+    "minLevel": 25,
+    "rewardIDs": [
+      9623,
+      9624,
+      9625
+    ],
+    "chainLinks": []
+  },
+  "2930": {
+    "id": 2930,
+    "name": "Data Rescue",
+    "source": "https://foreverchanges.pro/quest/2930",
+    "faction": "Alliance",
+    "minLevel": 25,
+    "rewardIDs": [
+      9316,
+      9604,
+      9605
+    ],
+    "chainLinks": [
+      2931
+    ]
+  },
+  "2948": {
+    "id": 2948,
+    "name": "Gnome Improvement",
+    "source": "https://foreverchanges.pro/quest/2948",
+    "faction": "Alliance",
+    "minLevel": 28,
+    "rewardIDs": [
+      1206,
+      2842,
+      9362,
+      9538
+    ],
+    "chainLinks": [
+      2945,
+      2947
+    ]
+  },
+  "2950": {
+    "id": 2950,
+    "name": "Nogg's Ring Redo",
+    "source": "https://foreverchanges.pro/quest/2950",
+    "faction": "Horde",
+    "minLevel": 28,
+    "rewardIDs": [
+      1206,
+      2842,
+      9362,
+      9588
+    ],
+    "chainLinks": [
+      2945,
+      2949
+    ]
+  },
+  "296": {
+    "id": 296,
+    "name": "Ormer's Revenge",
+    "source": "https://foreverchanges.pro/quest/296",
+    "faction": "Alliance",
+    "minLevel": 22,
+    "rewardIDs": [
+      3493,
+      3566,
+      3638,
+      3682,
+      5246,
+      270039
+    ],
+    "chainLinks": [
+      294,
+      295
+    ]
+  },
+  "328": {
+    "id": 328,
+    "name": "The Hidden Key",
+    "source": "https://foreverchanges.pro/quest/328",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      2719,
+      4122,
+      4123,
+      4139
+    ],
+    "chainLinks": [
+      200,
+      215,
+      329,
+      330,
+      331
+    ]
+  },
+  "331": {
+    "id": 331,
+    "name": "Report to Doren",
+    "source": "https://foreverchanges.pro/quest/331",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      4122,
+      4123,
+      4139
+    ],
+    "chainLinks": [
+      200,
+      215,
+      328,
+      329,
+      330
+    ]
+  },
+  "2754": {
+    "id": 2754,
+    "name": "Horns of Frenzy",
+    "source": "https://foreverchanges.pro/quest/2754",
+    "faction": "Horde",
+    "minLevel": 32,
+    "rewardIDs": [
+      3482,
+      3483,
+      3851,
+      7978,
+      7979,
+      7980,
+      7981,
+      7982
+    ],
+    "chainLinks": [
+      2751,
+      2752,
+      2753,
+      2755
+    ]
+  },
+  "3514": {
+    "id": 3514,
+    "name": "Horde Presence",
+    "source": "https://foreverchanges.pro/quest/3514",
+    "faction": "Horde",
+    "minLevel": 15,
+    "rewardIDs": [
+      10622,
+      10653,
+      10654,
+      270038
+    ],
+    "chainLinks": [
+      3513
+    ]
+  },
+  "378": {
+    "id": 378,
+    "name": "The Fury Runs Deep",
+    "source": "https://foreverchanges.pro/quest/378",
+    "faction": "Alliance",
+    "minLevel": 25,
+    "rewardIDs": [
+      1264,
+      3562,
+      3640,
+      270036
+    ],
+    "chainLinks": [
+      303
+    ]
+  },
+  "396": {
+    "id": 396,
+    "name": "An Audience with the King",
+    "source": "https://foreverchanges.pro/quest/396",
+    "faction": "Alliance",
+    "minLevel": 16,
+    "rewardIDs": [
+      2933,
+      2956
+    ],
+    "chainLinks": [
+      350,
+      373,
+      389,
+      391,
+      392,
+      393,
+      394,
+      395,
+      434,
+      2745,
+      2746
+    ]
+  },
+  "4904": {
+    "id": 4904,
+    "name": "Free at Last",
+    "source": "https://foreverchanges.pro/quest/4904",
+    "faction": "Horde",
+    "minLevel": 25,
+    "rewardIDs": [
+      15468,
+      15469
+    ],
+    "chainLinks": []
+  },
+  "501": {
+    "id": 501,
+    "name": "Elixir of Pain",
+    "source": "https://foreverchanges.pro/quest/501",
+    "faction": "Horde",
+    "minLevel": 21,
+    "rewardIDs": [
+      2230,
+      3496,
+      3735,
+      3741,
+      6482,
+      276724
+    ],
+    "chainLinks": [
+      502
+    ]
+  },
+  "504": {
+    "id": 504,
+    "name": "Crushridge Warmongers",
+    "source": "https://foreverchanges.pro/quest/504",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      3763,
+      5249,
+      270072
+    ],
+    "chainLinks": [
+      500
+    ]
+  },
+  "505": {
+    "id": 505,
+    "name": "Syndicate Assassins",
+    "source": "https://foreverchanges.pro/quest/505",
+    "faction": "Alliance",
+    "minLevel": 26,
+    "rewardIDs": [
+      3758,
+      3759
+    ],
+    "chainLinks": []
+  },
+  "508": {
+    "id": 508,
+    "name": "Taretha's Gift",
+    "source": "https://foreverchanges.pro/quest/508",
+    "faction": "Horde",
+    "minLevel": 29,
+    "rewardIDs": [
+      3498,
+      3733,
+      3734,
+      3752,
+      3764,
+      3765
+    ],
+    "chainLinks": [
+      498,
+      503,
+      506,
+      507,
+      533
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "Morbent Fel",
+    "source": "https://foreverchanges.pro/quest/55",
+    "faction": "Alliance",
+    "minLevel": 20,
+    "rewardIDs": [
+      1282,
+      2702,
+      2953,
+      2954,
+      7297,
+      7344
+    ],
+    "chainLinks": [
+      95,
+      164,
+      230,
+      262,
+      265,
+      266,
+      268,
+      269,
+      270,
+      321,
+      322,
+      323,
+      324,
+      325,
+      453,
+      526
+    ]
+  },
+  "5561": {
+    "id": 5561,
+    "name": "Kodo Roundup",
+    "source": "https://foreverchanges.pro/quest/5561",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      13892,
+      15697,
+      15698
+    ],
+    "chainLinks": []
+  },
+  "564": {
+    "id": 564,
+    "name": "Costly Menace",
+    "source": "https://foreverchanges.pro/quest/564",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      3728,
+      3736,
+      3753,
+      3754
+    ],
+    "chainLinks": []
+  },
+  "3924": {
+    "id": 3924,
+    "name": "Samophlange Manual",
+    "source": "https://foreverchanges.pro/quest/3924",
+    "faction": "Horde",
+    "minLevel": 10,
+    "rewardIDs": [
+      5324,
+      5325,
+      11149,
+      11854,
+      11855
+    ],
+    "chainLinks": [
+      894,
+      900,
+      901,
+      902,
+      3921,
+      3922,
+      3923
+    ]
+  },
+  "565": {
+    "id": 565,
+    "name": "Bartolo's Yeti Fur Cloak",
+    "source": "https://foreverchanges.pro/quest/565",
+    "faction": "Alliance",
+    "minLevel": 29,
+    "rewardIDs": [
+      2321,
+      2805,
+      2997,
+      3719,
+      3720
+    ],
+    "chainLinks": []
+  },
+  "583": {
+    "id": 583,
+    "name": "Welcome to the Jungle",
+    "source": "https://foreverchanges.pro/quest/583",
+    "faction": null,
+    "minLevel": 28,
+    "rewardIDs": [
+      2756,
+      2757,
+      2758,
+      2759,
+      3928,
+      4107,
+      4108,
+      4119,
+      8173,
+      17686,
+      17687,
+      17688,
+      270084,
+      270085
+    ],
+    "chainLinks": [
+      185,
+      186,
+      187,
+      188,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      208,
+      338,
+      339,
+      340,
+      341,
+      342
+    ]
+  },
+  "582": {
+    "id": 582,
+    "name": "Headhunting",
+    "source": "https://foreverchanges.pro/quest/582",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      1532,
+      3913,
+      4132,
+      4133,
+      4134,
+      6723
+    ],
+    "chainLinks": [
+      581,
+      584,
+      585,
+      586,
+      588,
+      589,
+      591,
+      592,
+      593
+    ]
+  },
+  "598": {
+    "id": 598,
+    "name": "Split Bone Necklace",
+    "source": "https://foreverchanges.pro/quest/598",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      3916,
+      4135,
+      4136,
+      4137
+    ],
+    "chainLinks": [
+      596
+    ]
+  },
+  "6027": {
+    "id": 6027,
+    "name": "Book of the Ancients",
+    "source": "https://foreverchanges.pro/quest/6027",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      15766,
+      15803,
+      16791,
+      16793
+    ],
+    "chainLinks": [
+      5741
+    ]
+  },
+  "600": {
+    "id": 600,
+    "name": "Venture Company Mining",
+    "source": "https://foreverchanges.pro/quest/600",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      3917,
+      4128,
+      5253
+    ],
+    "chainLinks": [
+      605
+    ]
+  },
+  "613": {
+    "id": 613,
+    "name": "Cracking Maury's Foot",
+    "source": "https://foreverchanges.pro/quest/613",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      3930,
+      4129,
+      270090,
+      270091
+    ],
+    "chainLinks": [
+      606,
+      607,
+      609
+    ]
+  },
+  "6283": {
+    "id": 6283,
+    "name": "Bloodfury Bloodline",
+    "source": "https://foreverchanges.pro/quest/6283",
+    "faction": "Horde",
+    "minLevel": 18,
+    "rewardIDs": [
+      16190,
+      16987,
+      16990,
+      270028
+    ],
+    "chainLinks": [
+      6282
+    ]
+  },
+  "633": {
+    "id": 633,
+    "name": "The Thandol Span",
+    "source": "https://foreverchanges.pro/quest/633",
+    "faction": "Alliance",
+    "minLevel": 28,
+    "rewardIDs": [
+      4504,
+      4505
+    ],
+    "chainLinks": [
+      631,
+      632,
+      634
+    ]
+  },
+  "6504": {
+    "id": 6504,
+    "name": "The Lost Pages",
+    "source": "https://foreverchanges.pro/quest/6504",
+    "faction": "Horde",
+    "minLevel": 23,
+    "rewardIDs": [
+      16642,
+      16643,
+      16644,
+      16740,
+      16741
+    ],
+    "chainLinks": []
+  },
+  "6561": {
+    "id": 6561,
+    "name": "Blackfathom Villainy",
+    "source": "https://foreverchanges.pro/quest/6561",
+    "faction": "Horde",
+    "minLevel": 18,
+    "rewardIDs": [
+      5881,
+      7001,
+      7002,
+      270031,
+      270032
+    ],
+    "chainLinks": []
+  },
+  "6521": {
+    "id": 6521,
+    "name": "An Unholy Alliance",
+    "source": "https://foreverchanges.pro/quest/6521",
+    "faction": "Horde",
+    "minLevel": 28,
+    "rewardIDs": [
+      17009,
+      17039,
+      17042,
+      17043,
+      270054
+    ],
+    "chainLinks": [
+      6522
+    ]
+  },
+  "6571": {
+    "id": 6571,
+    "name": "Warsong Supplies",
+    "source": "https://foreverchanges.pro/quest/6571",
+    "faction": "Horde",
+    "minLevel": 22,
+    "rewardIDs": [
+      16742,
+      16743,
+      16744,
+      16745,
+      16975,
+      16977,
+      16978
+    ],
+    "chainLinks": [
+      6581
+    ]
+  },
+  "679": {
+    "id": 679,
+    "name": "Call to Arms",
+    "source": "https://foreverchanges.pro/quest/679",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      9520,
+      9521,
+      270069
+    ],
+    "chainLinks": [
+      676,
+      677,
+      678
+    ]
+  },
+  "661": {
+    "id": 661,
+    "name": "Hints of a New Plague?",
+    "source": "https://foreverchanges.pro/quest/661",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      15455,
+      15456
+    ],
+    "chainLinks": [
+      657,
+      658,
+      659,
+      660
+    ]
+  },
+  "680": {
+    "id": 680,
+    "name": "The Real Threat",
+    "source": "https://foreverchanges.pro/quest/680",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      4551,
+      4976,
+      4977,
+      270079
+    ],
+    "chainLinks": [
+      676,
+      677,
+      678
+    ]
+  },
+  "682": {
+    "id": 682,
+    "name": "Stromgarde Badges",
+    "source": "https://foreverchanges.pro/quest/682",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      4506,
+      4741,
+      270056,
+      270057
+    ],
+    "chainLinks": [
+      681
+    ]
+  },
+  "684": {
+    "id": 684,
+    "name": "Wanted! Marez Cowl",
+    "source": "https://foreverchanges.pro/quest/684",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      4515,
+      4744,
+      270067,
+      270068
+    ],
+    "chainLinks": []
+  },
+  "685": {
+    "id": 685,
+    "name": "Wanted! Otto and Falconcrest",
+    "source": "https://foreverchanges.pro/quest/685",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      4516,
+      4517,
+      4745,
+      5247,
+      270080
+    ],
+    "chainLinks": []
+  },
+  "6922": {
+    "id": 6922,
+    "name": "Baron Aquanis",
+    "source": "https://foreverchanges.pro/quest/6922",
+    "faction": "Horde",
+    "minLevel": 21,
+    "rewardIDs": [
+      16782,
+      16886,
+      16887,
+      270043
+    ],
+    "chainLinks": []
+  },
+  "697": {
+    "id": 697,
+    "name": "Malin's Request",
+    "source": "https://foreverchanges.pro/quest/697",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      4533,
+      4975,
+      15104
+    ],
+    "chainLinks": [
+      690,
+      691,
+      693,
+      694,
+      695,
+      696
+    ]
+  },
+  "704": {
+    "id": 704,
+    "name": "Agmond's Fate",
+    "source": "https://foreverchanges.pro/quest/704",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      1529,
+      2776,
+      4610,
+      4980,
+      4982,
+      4983,
+      270059,
+      270060
+    ],
+    "chainLinks": [
+      707,
+      738,
+      739
+    ]
+  },
+  "705": {
+    "id": 705,
+    "name": "Pearl Diving",
+    "source": "https://foreverchanges.pro/quest/705",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      4086,
+      4611,
+      4852,
+      5248,
+      6672
+    ],
+    "chainLinks": [
+      1559
+    ]
+  },
+  "709": {
+    "id": 709,
+    "name": "Solution to Doom",
+    "source": "https://foreverchanges.pro/quest/709",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      4631,
+      4746,
+      4984,
+      270074,
+      270075
+    ],
+    "chainLinks": [
+      727,
+      728,
+      735,
+      736,
+      737
+    ]
+  },
+  "7541": {
+    "id": 7541,
+    "name": "Service to the Horde",
+    "source": "https://foreverchanges.pro/quest/7541",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      18585,
+      18586
+    ],
+    "chainLinks": [
+      1238,
+      1239,
+      1240,
+      1261,
+      1262
+    ]
+  },
+  "78676": {
+    "id": 78676,
+    "name": "The Eye of Bhossca",
+    "source": "https://foreverchanges.pro/quest/78676",
+    "faction": null,
+    "minLevel": 25,
+    "rewardIDs": [
+      210953,
+      277246
+    ],
+    "chainLinks": []
+  },
+  "8221": {
+    "id": 8221,
+    "name": "Rare Fish - Keefer's Angelfish",
+    "source": "https://foreverchanges.pro/quest/8221",
+    "faction": null,
+    "minLevel": 1,
+    "rewardIDs": [
+      19805,
+      19972
+    ],
+    "chainLinks": []
+  },
+  "824": {
+    "id": 824,
+    "name": "Je'neu of the Earthen Ring",
+    "source": "https://foreverchanges.pro/quest/824",
+    "faction": "Horde",
+    "minLevel": 23,
+    "rewardIDs": [
+      16408,
+      16659,
+      16660,
+      16661
+    ],
+    "chainLinks": [
+      1918
+    ]
+  },
+  "739": {
+    "id": 739,
+    "name": "Murdaloc",
+    "source": "https://foreverchanges.pro/quest/739",
+    "faction": "Alliance",
+    "minLevel": 30,
+    "rewardIDs": [
+      1529,
+      2776,
+      4980,
+      4982,
+      4983,
+      270059,
+      270060
+    ],
+    "chainLinks": [
+      704,
+      707,
+      738
+    ]
+  },
+  "94232": {
+    "id": 94232,
+    "name": "Craftsman's Writ: Minor Recombobulator",
+    "source": "https://foreverchanges.pro/quest/94232",
+    "faction": null,
+    "minLevel": 1,
+    "rewardIDs": [
+      4381,
+      264032
+    ],
+    "chainLinks": []
+  },
+  "94249": {
+    "id": 94249,
+    "name": "Craftsman's Writ: Azure Silk Hood",
+    "source": "https://foreverchanges.pro/quest/94249",
+    "faction": null,
+    "minLevel": 1,
+    "rewardIDs": [
+      7048,
+      264049,
+      284584
+    ],
+    "chainLinks": []
+  },
+  "94280": {
+    "id": 94280,
+    "name": "Craftsman's Writ: Mechanical Dragonling",
+    "source": "https://foreverchanges.pro/quest/94280",
+    "faction": null,
+    "minLevel": 1,
+    "rewardIDs": [
+      4396,
+      264080
+    ],
+    "chainLinks": []
+  },
+  "914": {
+    "id": 914,
+    "name": "Leaders of the Fang",
+    "source": "https://foreverchanges.pro/quest/914",
+    "faction": "Horde",
+    "minLevel": 10,
+    "rewardIDs": [
+      6504,
+      6505,
+      9738,
+      9739,
+      9740,
+      9741,
+      270018
+    ],
+    "chainLinks": [
+      870,
+      877,
+      880,
+      886,
+      1489,
+      1490
+    ]
+  },
+  "95140": {
+    "id": 95140,
+    "name": "Old Fire-Eye",
+    "source": "https://foreverchanges.pro/quest/95140",
+    "faction": "Horde",
+    "minLevel": 20,
+    "rewardIDs": [
+      267369,
+      268484
+    ],
+    "chainLinks": []
+  },
+  "95534": {
+    "id": 95534,
+    "name": "Strahnbrad Mystery",
+    "source": "https://foreverchanges.pro/quest/95534",
+    "faction": null,
+    "minLevel": 25,
+    "rewardIDs": [
+      213421,
+      277206
+    ],
+    "chainLinks": []
+  },
+  "95776": {
+    "id": 95776,
+    "name": "The Only Good Brinescale...",
+    "source": "https://foreverchanges.pro/quest/95776",
+    "faction": "Horde",
+    "minLevel": 30,
+    "rewardIDs": [
+      279888,
+      279889
+    ],
+    "chainLinks": []
+  },
+  "95999": {
+    "id": 95999,
+    "name": "WANTED: Incinerator Gar'im",
+    "source": "https://foreverchanges.pro/quest/95999",
+    "faction": "Alliance",
+    "minLevel": 16,
+    "rewardIDs": [
+      271872,
+      277218,
+      277226,
+      277234
+    ],
+    "chainLinks": []
+  },
+  "96260": {
+    "id": 96260,
+    "name": "Stronger than Steel",
+    "source": "https://foreverchanges.pro/quest/96260",
+    "faction": "Horde",
+    "minLevel": 23,
+    "rewardIDs": [
+      273181,
+      273654,
+      276891,
+      276892
+    ],
+    "chainLinks": []
+  },
+  "97048": {
+    "id": 97048,
+    "name": "Returning to Port",
+    "source": "https://foreverchanges.pro/quest/97048",
+    "faction": null,
+    "minLevel": 30,
+    "rewardIDs": [
+      277214,
+      277224,
+      277232
+    ],
+    "chainLinks": []
+  },
+  "97250": {
+    "id": 97250,
+    "name": "Wrongly Blamed, Justly Corrected",
+    "source": "https://foreverchanges.pro/quest/97250",
+    "faction": "Horde",
+    "minLevel": 18,
+    "rewardIDs": [
+      277286,
+      277288,
+      277289
+    ],
+    "chainLinks": []
+  },
+  "98": {
+    "id": 98,
+    "name": "The Legend of Stalvan",
+    "source": "https://foreverchanges.pro/quest/98",
+    "faction": "Alliance",
+    "minLevel": 22,
+    "rewardIDs": [
+      939,
+      2043,
+      2044,
+      3629,
+      270053
+    ],
+    "chainLinks": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      72,
+      74,
+      75,
+      78,
+      79,
+      80,
+      97
+    ]
+  },
+  "98028": {
+    "id": 98028,
+    "name": "Baron Marinous",
+    "source": "https://foreverchanges.pro/quest/98028",
+    "faction": "Alliance",
+    "minLevel": 17,
+    "rewardIDs": [
+      279275,
+      281291,
+      281292
+    ],
+    "chainLinks": []
+  },
+  "94411": {
+    "id": 94411,
+    "name": "Meddlesome Mages",
+    "source": "https://foreverchanges.pro/quest/94411",
+    "faction": "Horde",
+    "minLevel": 4,
+    "rewardIDs": [
+      263411,
+      263412
+    ],
+    "chainLinks": []
+  },
+  "98216": {
+    "id": 98216,
+    "name": "Understanding Our Present",
+    "source": "https://foreverchanges.pro/quest/98216",
+    "faction": "Alliance",
+    "minLevel": 23,
+    "rewardIDs": [
+      2913,
+      279993,
+      281304,
+      281305,
+      281319,
+      281320,
+      281321
+    ],
+    "chainLinks": [
+      299,
+      98310,
+      98313
+    ]
+  },
+  "98208": {
+    "id": 98208,
+    "name": "Bloom of the Heavens",
+    "source": "https://foreverchanges.pro/quest/98208",
+    "faction": null,
+    "minLevel": 22,
+    "rewardIDs": [
+      279915,
+      281318
+    ],
+    "chainLinks": [
+      98209
+    ]
+  }
+}

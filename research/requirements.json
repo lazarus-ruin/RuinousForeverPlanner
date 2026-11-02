@@ -1,0 +1,170 @@
+[
+  [
+    "FR-01",
+    "Character profiles",
+    "Partial",
+    "Class/level detection and independent class/spec/PvE/PvP goal preferences; no talent mutation or automatic spec detection."
+  ],
+  [
+    "FR-02",
+    "Versioned offline data",
+    "Partial",
+    "Six exact-ID Holy PvE candidates with source, slot, level windows and acquisition gates. Other item variants/rankings missing."
+  ],
+  [
+    "FR-03",
+    "Automatic owned-gear scan",
+    "Partial",
+    "Equipped and carried bags scanned reactively. Bank explicitly unknown and excluded; no bank API claim."
+  ],
+  [
+    "FR-04",
+    "Solo objective planner",
+    "Partial",
+    "Gear ownership changes qualitative next actions and preparation; staged quest/craft/gate checklists cover 1-60."
+  ],
+  [
+    "FR-05",
+    "Group objective planner",
+    "Partial",
+    "Aggregates this character's outstanding Deadmines and Jargba sample targets; completed one-time quest rewards excluded. Other players remain unknown."
+  ],
+  [
+    "FR-06",
+    "Time/value ranking",
+    "Partial",
+    "Explainable policy order, empty-slot attention, ownership and longevity flags. Actual time, probability and stat gain remain unknown."
+  ],
+  [
+    "FR-07",
+    "Party goal sharing",
+    "Deferred M2",
+    "No messaging implemented; never infers other party members' goals."
+  ],
+  [
+    "FR-08",
+    "Preparation checklists",
+    "Partial",
+    "Stage checklists plus item materials and manual gate readiness; no automatic material/quest inventory matching."
+  ],
+  [
+    "FR-09",
+    "Core UI",
+    "Partial",
+    "Priorities, Gear, Inventory, Group, Preparation and Help views; target/equipped/bag tooltip inspection and candidate navigation. Graphical overview and live layout validation remain deferred."
+  ],
+  [
+    "FR-10",
+    "Persistence",
+    "Implemented offline",
+    "Schema 1-to-2 migration, per-character settings/checklists and per-profile gates, skipped targets and history; client disk save test pending."
+  ],
+  [
+    "FR-11",
+    "Multiple role profiles",
+    "Implemented offline",
+    "Manual class/spec/PvE/PvP planning profiles keep independent goal overrides and histories; PvP dataset explicitly missing."
+  ],
+  [
+    "FR-12",
+    "Equipment comparison",
+    "Partial",
+    "Exact equipped/owned links, resolved permanent enchant stats without double counting, main/off-hand set comparisons and projected tooltips. Damage, procs, item restrictions and uncertain suffix targets remain partial."
+  ],
+  [
+    "FR-13",
+    "Curated sources",
+    "Partial",
+    "Small factual sample with individual URLs and verification labels. Significant dataset licensing/import and broad coverage not established."
+  ],
+  [
+    "FR-14",
+    "Opportunity categories",
+    "Partial",
+    "Owned inspection, solo, group, preparation, blocked and unknown actions. No raid or purchase optimizer."
+  ],
+  [
+    "FR-15",
+    "Reactive updates",
+    "Partial",
+    "Login, level, item cache, bag/equipment and bundled quest events refresh goals. Broader quest and party-state routing missing."
+  ],
+  [
+    "FR-16",
+    "Explain ranking",
+    "Partial",
+    "Each adaptive action explains ownership, gates, uncertainty, future wear level or longevity. Estimates remain unavailable."
+  ],
+  [
+    "FR-17",
+    "Data version changes",
+    "Implemented offline",
+    "Stable IDs preserve overrides; bounded history records data version and target count. New versions never erase checklists."
+  ],
+  [
+    "FR-18",
+    "Level 1-60 planning",
+    "Implemented offline",
+    "Every live level has one stage; target milestone and explicit stage previews support levels 1-60."
+  ],
+  [
+    "FR-19",
+    "Level-aware benchmark",
+    "Partial",
+    "Level-window-filtered sample and future coverage counts; full BiS benchmark unavailable outside verified coverage."
+  ],
+  [
+    "FR-20",
+    "Readiness score/trend",
+    "Partial",
+    "Qualitative sample ownership counts and versioned history only. No fabricated weighted score or full-BiS percentage."
+  ],
+  [
+    "FR-21",
+    "Gear-aware quest routing",
+    "Partial",
+    "Ownership plus the seven-step Defias completion/log observations determine the next prerequisite check. Full XP/reward quest optimization deferred."
+  ],
+  [
+    "FR-22",
+    "Integrated solo/group routing",
+    "Partial",
+    "Solo includes future group preparation; Group consolidates outstanding dungeon targets and requirements."
+  ],
+  [
+    "FR-23",
+    "Quest dependencies",
+    "Partial",
+    "Seven source-linked Defias quest IDs and predecessor edges; reads completion/log flags. Other quests, eligibility, difficulty and turn-in readiness remain unknown."
+  ],
+  [
+    "FR-24",
+    "Progression refresh",
+    "Partial",
+    "Recomputes after level, loot/scan, profile, context, target and bundled quest events. Coalesces quest updates and defers reads in combat."
+  ],
+  [
+    "FR-25",
+    "Upgrade longevity",
+    "Partial",
+    "Explicitly deprioritizes older sample candidates near the end of level-30 coverage. No estimated replacement horizon beyond sample."
+  ],
+  [
+    "FR-26",
+    "Level-60 transition",
+    "Partial",
+    "Level-60 stage emphasizes access and role gearing; no XP scores used. Verified endgame target data remains missing."
+  ],
+  [
+    "FR-27",
+    "Encounter sets",
+    "Deferred future",
+    "Preserved as a future enhancement, not silently removed."
+  ],
+  [
+    "FR-28",
+    "Advanced pathfinding",
+    "Deferred future",
+    "Preserved as a future enhancement; no navigation optimization claimed."
+  ]
+]

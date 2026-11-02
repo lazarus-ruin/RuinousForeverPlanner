@@ -1,0 +1,366 @@
+{
+  "reviewed": "2026-10-21",
+  "liveTested": false,
+  "guides": {
+    "171": {
+      "name": "Alchemy",
+      "prep": "Herbalism supplies herbs; stock vials. Healing potions belong to First Aid in Forever.",
+      "use": "Mana and utility consumables; coordinate elixirs with guild crafters.",
+      "source": "https://www.wow-professions.com/forever/alchemy-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 55,
+          "text": "1-10 Minor Arcane Elixir; 10-55 Elixir of Minor Defense. Save Peacebloom and Silverleaf."
+        },
+        {
+          "from": 55,
+          "to": 150,
+          "text": "55-65 Minor Mana Potion; 65-90 Minor Fortitude; 90-120 Wisdom; 120-130 Lesser Mana; 130-150 Fire Oil. Keep oil for later."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "150-165 Fire Power; 165-195 Mana Potion; 195-225 Nature Protection. Nature Protection needs a purchased vendor recipe."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Untested later route: Nature Protection, Detect Undead, then Superior Mana/other elixirs. Final recipe choice depends on access and cost."
+        }
+      ]
+    },
+    "164": {
+      "name": "Blacksmithing",
+      "prep": "Pair with Mining; carry a hammer and plan forge visits.",
+      "use": "Compare armor/weapons against quest rewards before investing.",
+      "source": "https://www.wow-professions.com/forever/blacksmithing-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "1-25 Rough Sharpening Stone; 25-50 Rough Grinding Stone; 50-67 Coarse Grinding Stone; 67-75 Runed Copper Gauntlets. Save intermediate stones."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "75-80 Runed Copper Belt; 80-95 Rough Bronze Leggings; 95-100 Patterned Bronze Bracers; 100-112 Heavy Grinding Stone; 112-125 Patterned Bronze Bracers; 125-140 Bronze Shortsword; 140-150 Bronze Warhammer."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "150-165 Bronze Warhammer; 165-175 Green Iron Bracers; 175-185 Golden Scale Bracers; 185-215 Mithril Plate Pants; 215-225 Heavy Mithril Breastplate (Artisan trainer Brikk Keencraft, Booty Bay; skill 200 / level 35)."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Plan later thorium crafts only after checking Artisan training and specialization access. Exact later recipe route incomplete."
+        }
+      ]
+    },
+    "333": {
+      "name": "Enchanting",
+      "prep": "Keep required rods; inspect the disenchant value of unwanted gear before selling.",
+      "use": "Use affordable useful enchants on gear that will last; check rating tooltip.",
+      "source": "https://www.wow-professions.com/forever/enchanting-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 70,
+          "text": "1-2 Runed Copper Rod; 2-20 Bracer Inferior Stamina; 20-70 Bracer Minor Deflect or Chest Inferior Stamina. Compare dust/essence costs."
+        },
+        {
+          "from": 70,
+          "to": 150,
+          "text": "70-109 Chest Minor Absorption; 109-110 Runed Silver Rod; 110-150 2H Lesser Intellect (vendor formula). Dust alternative: Cloak Minor Protection to 130, Boots Minor Stamina to 150."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "150-151 Runed Golden Rod; 151-165 Minor Mana Oil; 165-185 Boots Lesser Agility; 185-200 Bracer Strength; 200-201 Runed Truesilver Rod; 201-220 Lesser Wizard Oil; 220-225 Cloak Greater Defense. Oils need vendor formulas."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Later rods, formulas and trainer access require verification. Reserve expensive materials for durable upgrades; exact route incomplete."
+        }
+      ]
+    },
+    "202": {
+      "name": "Engineering",
+      "prep": "Pair with Mining. Keep powder, bolts and the Arclight Spanner.",
+      "use": "Utility explosives and scopes; inspect device profession requirements.",
+      "source": "https://www.wow-professions.com/forever/engineering-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "1-30 Rough Blasting Powder; 30-50 Copper Bolts; 50-51 Arclight Spanner; 51-75 Rough Copper Bomb. Save intermediates."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "75-90 Coarse Powder; 90-100 Coarse Dynamite; 100-105 Silver Contact; 105-125 Bronze Tube; 125-135 Standard Scope; 135-150 Heavy Powder then Bronze Gizmo."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "150-160 Bronze Framework; 160-175 Explosive Sheep; 175-194 Solid Powder (beta alternative includes Iron Grenades); 194-195 Micro-Adjustor; 195-200 Mithril Tube; 200-215 Unstable Trigger; 215-225 Mithril Casing. Later recipes: Buzzek in Gadgetzan."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "225-238 Mithril Casing; 238-250 Hi-Explosive Bomb; 250-260 Dense Powder; 260-285 Thorium Widget (vendor schematic). Remaining 285-300 route not bundled. Untested after beta cap."
+        }
+      ]
+    },
+    "165": {
+      "name": "Leatherworking",
+      "prep": "Pair with Skinning; retain hides, salt and thread.",
+      "use": "Compare leather armor and kits against current equipment.",
+      "source": "https://www.wow-professions.com/forever/leatherworking-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 55,
+          "text": "1-30 Light Leather from scraps or Light Armor Kit; 30-55 Cured Light Hide. Save cured hides."
+        },
+        {
+          "from": 55,
+          "to": 130,
+          "text": "55-75 Embossed Leather Gloves; 75-80 Medium Leather; 80-90 Cured Medium Hide; 90-100 Fine Leather Belt; 100-115 Light Leather Pants; 115-125 Dark Leather Belt; 125-130 Heavy Leather."
+        },
+        {
+          "from": 130,
+          "to": 225,
+          "text": "130-140 Cured Heavy Hide; 140-155 Hillman gloves; 155-165 Barbaric Shoulders; 165-195 Guardian Gloves; 195-210 Nightscape Headband; 210-225 Nightscape Pants (Artisan trainer required)."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Check Artisan and specialization; plan thick/rugged leather crafts only after checking recipe access. Later route incomplete."
+        }
+      ]
+    },
+    "197": {
+      "name": "Tailoring",
+      "prep": "Save cloth from normal quests; buy thread in town. Coordinate Elixir of Wisdom with an alchemist.",
+      "use": "Cloth gear and bags; compare complete weapon/off-hand sets separately.",
+      "source": "https://www.wow-professions.com/forever/tailoring-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 55,
+          "text": "1-30 Linen Bolts; 30-55 Linen Belt. Retain bolts for crafting."
+        },
+        {
+          "from": 55,
+          "to": 125,
+          "text": "55-80 Wool Bolts; 80-95 Woolen Cape; 95-100 Double-stitched Woolen Shoulders; 100-120 Silk Bolts; 120-125 Gloves of Meditation using Elixir of Wisdom."
+        },
+        {
+          "from": 125,
+          "to": 225,
+          "text": "125-140 Gloves of Meditation; 140-150 Mageweave Bolts or Red Swashbuckler shirt; 150-170 Crimson Silk Vest; 170-190 Crimson Silk Pantaloons; 190-215 Black Mageweave Gloves; 215-225 Mageweave Bag."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Save runecloth and check Artisan/pattern access before long farms. Later exact route incomplete and untested here."
+        }
+      ]
+    },
+    "186": {
+      "name": "Mining",
+      "prep": "Carry a pick and enable Find Minerals; smelt during town visits.",
+      "use": "Supply Blacksmithing/Engineering or sell excess after reserving useful crafts.",
+      "source": "https://www.wow-professions.com/forever/mining-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "Smelt Copper toward 65. At 65 train tin/bronze; smelt tin toward 75. Gather on nearby quest routes."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "Bronze smelting toward 105; then eligible tin/silver nodes. Tin requires 65, silver 75, iron 125. Match gathering with safe quest zones."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Iron from 125; Gold from 155; Mithril from 175. Train before cap; dangerous caves are poor detours while leveling."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Mithril until 245; small Thorium requires 245. Avoid elite caves and verify later node requirements. Artisan: skill 200 / level 35. Late route untested."
+        }
+      ]
+    },
+    "129": {
+      "name": "First Aid",
+      "prep": "Reserve some cloth for bandages rather than spending all of it on Tailoring.",
+      "use": "Bandages reduce recovery downtime; Forever healing potions also use this skill.",
+      "source": "https://www.wow-professions.com/forever/first-aid-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "1-40 Linen Bandage; 40-75 Heavy Linen Bandage. Potion alternative uses herbs, spices and vials."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "75-80 Heavy Linen; 80-115 Wool Bandage; 115-150 Heavy Wool Bandage. Train Journeyman before the cap."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Expert book at skill 125: Deneb Walker (Alliance, Arathi) / Balai Lok Wein (Horde, Dustwallow). 150-180 Silk; 180-210 Heavy Silk; 210-225 Mageweave Bandage (manuals required)."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Triage: skill 225 / level 35; faction doctor in Hammerfall / Theramore. 225-240 Superior Healing Potion; 240-260 Heavy Mageweave; 260-275 Runecloth Bandage; 275-300 Major Healing Potion. Potion manuals: acquisition unconfirmed; late route untested."
+        }
+      ]
+    },
+    "185": {
+      "name": "Cooking",
+      "prep": "Save quest meat or pair with Fishing; buy spices from supply vendors.",
+      "use": "Recovery food and applicable food buffs; check the actual tooltip.",
+      "source": "https://www.wow-professions.com/forever/cooking-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 50,
+          "text": "Cook available Smallfish, Mackerel, wolf/boar meat or eggs. Fish recipes need vendors; meat alternatives include trainer recipes."
+        },
+        {
+          "from": 50,
+          "to": 150,
+          "text": "Train Journeyman at 50. 50-100 Mud Snapper or available meat; 100-130 Crab Cake; 130-150 Goblin Deviled Clams or available alternatives."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Expert Cookbook at skill 125: Wulan (Horde, Desolace) / Shandrina (Alliance, Ashenvale). 150-175 Curiously Tasty Omelet; 175-225 Mithril Headed Trout or Roast Raptor (vendor recipes)."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Artisan: Clamlette Surprise at skill 225 / level 35, Gadgetzan. Bring 12 Giant Eggs, 10 Zesty Clam Meat, 20 Alterac Swiss. Later recipe route incomplete and untested."
+        }
+      ]
+    },
+    "356": {
+      "name": "Fishing",
+      "prep": "Carry a pole and lures. Pair catches with known Cooking recipes.",
+      "use": "Supply food ingredients; dedicated fishing competes with quest XP time.",
+      "source": "https://www.wow-professions.com/forever/fishing-leveling-guide",
+      "coverage": "Forever guide summary; detailed recipe coverage partial; later content untested",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "Fish starting-zone waters using a pole and optional Shiny Bauble."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "Journeyman requires skill 50 and level 10. Fish capital-city or other suitable low-level waters; use Nightcrawlers if catches escape."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Expert book: Old Man Heming in Booty Bay; skill 125 and level 20. Dustwallow with Bright Baubles is one source route."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Artisan: Nat Pagle, Angler Extreme at skill 225 / level 35, Dustwallow. Quest fish: Feralas, Swamp of Sorrows, Desolace, Stranglethorn. Then fish suitable Feralas/Tanaris waters with Bright Baubles; late route untested."
+        }
+      ]
+    },
+    "182": {
+      "name": "Herbalism",
+      "prep": "Enable herb tracking and gather only along safe quest paths.",
+      "use": "Supply Alchemy and Forever First Aid herbs; reserve what you actually plan to use.",
+      "source": "https://www.wow-professions.com/classic/herbalism-leveling-guide-classic-wow",
+      "coverage": "Classic-derived heuristics; Forever route unverified",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "Gather available starter herbs on quest paths; inspect each node skill requirement."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "Train the next rank and gather eligible herbs in your current quest areas."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Keep pace with local herb requirements; defer long farming circuits when XP is the priority."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Plan later herb collection alongside high-level quests; exact Forever node/zone route is not bundled."
+        }
+      ]
+    },
+    "393": {
+      "name": "Skinning",
+      "prep": "Carry a skinning knife; clear/loot normal quest beasts first.",
+      "use": "Supply Leatherworking without adding a separate kill grind.",
+      "source": "https://www.wow-professions.com/classic/skinning-leveling-guide-classic-wow",
+      "coverage": "Classic-derived heuristics; Forever route unverified",
+      "training": "Check trainer/book requirements in client before travel; displayed trained cap takes priority. Production ranks commonly unlock at skill 50/125/200 and levels 10/20/35; secondary/gathering exceptions apply.",
+      "steps": [
+        {
+          "from": 1,
+          "to": 75,
+          "text": "Skin eligible quest beasts and retain light leather/scraps."
+        },
+        {
+          "from": 75,
+          "to": 150,
+          "text": "Train before the cap; collect medium leather while completing beast quests."
+        },
+        {
+          "from": 150,
+          "to": 225,
+          "text": "Retain heavy/thick leather where available; inspect actual mob requirements."
+        },
+        {
+          "from": 225,
+          "to": 300,
+          "text": "Collect later leather alongside suitable quests; exact Forever mob/zone route is not bundled."
+        }
+      ]
+    }
+  }
+}

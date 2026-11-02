@@ -1,0 +1,34 @@
+# Local builds and personal installation backups
+/output/
+/tmp/
+**/__pycache__/
+*.pyc
+
+# Installed development dependencies
+/tools/node_modules/
+/tools/python_deps/
+
+# Downloaded third-party runtimes and archives
+/third_party/QuestieDB/
+/third_party/*.zip
+
+# Research keeps structured build inputs, not cached pages or personal documents
+/research/**/*.html
+/research/**/*.pdf
+/research/*.txt
+/research/crawl/*.html
+/research/factoruide/
+/research/questie/*.lua
+/research/questie/*.md
+/research/questie/*.toc
+/research/questie/.gitmodules
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.codex/
+.agents/
+.aws/

@@ -1,0 +1,6 @@
+reportlab
+pypdf
+pypdfium2
+Pillow
+lupa==2.8
+beautifulsoup4==4.15.0

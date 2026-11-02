@@ -1,0 +1,951 @@
+{
+  "meta": {
+    "systemCount": 410,
+    "tableCount": 797,
+    "product": "wow_classic_beta",
+    "interface": 16001,
+    "buildDate": "Oct  1 2026",
+    "hasAPIDocumentation": true,
+    "eventCount": 1806,
+    "version": "1.60.1",
+    "exportedAt": "2026-10-01 21:34:30",
+    "functionCount": 6598,
+    "build": "70170"
+  },
+  "globals": {
+    "CreateFrame": "function",
+    "GetBuildInfo": "function",
+    "GetInventoryItemID": "function",
+    "GetInventoryItemLink": "function",
+    "GetLocale": "function",
+    "GetLootSlotLink": "function",
+    "GetMerchantItemLink": "function",
+    "GetMerchantNumItems": "function",
+    "GetProfessionInfo": "function",
+    "GetProfessions": "function",
+    "GetRealZoneText": "function",
+    "GetTime": "function",
+    "GetZoneText": "function",
+    "InCombatLockdown": "function",
+    "IsPlayerSpell": "function",
+    "UnitClass": "function",
+    "UnitFactionGroup": "function",
+    "UnitGUID": "function",
+    "UnitLevel": "function",
+    "UnitName": "function",
+    "UnitXP": "function",
+    "UnitXPMax": "function",
+    "hooksecurefunc": "function",
+    "issecretvalue": "function",
+    "time": "function"
+  },
+  "systems": [
+    {
+      "name": "BagIndexConstants",
+      "namespace": null,
+      "functions": [],
+      "events": [],
+      "tables": [
+        {
+          "fields": [
+            {
+              "type": "BagIndex",
+              "name": "Accountbanktab",
+              "enumValue": -3,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Characterbanktab",
+              "enumValue": -2,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Keyring",
+              "enumValue": -1,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Backpack",
+              "enumValue": 0,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Bag_1",
+              "enumValue": 1,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Bag_2",
+              "enumValue": 2,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Bag_3",
+              "enumValue": 3,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "Bag_4",
+              "enumValue": 4,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "ReagentBag",
+              "enumValue": 5,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_1",
+              "enumValue": 6,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_2",
+              "enumValue": 7,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_3",
+              "enumValue": 8,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_4",
+              "enumValue": 9,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_5",
+              "enumValue": 10,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_6",
+              "enumValue": 11,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_7",
+              "enumValue": 12,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_8",
+              "enumValue": 13,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "CharacterBankTab_9",
+              "enumValue": 14,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_1",
+              "enumValue": 15,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_2",
+              "enumValue": 16,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_3",
+              "enumValue": 17,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_4",
+              "enumValue": 18,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_5",
+              "enumValue": 19,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_6",
+              "enumValue": 20,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_7",
+              "enumValue": 21,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_8",
+              "enumValue": 22,
+              "nilable": false
+            },
+            {
+              "type": "BagIndex",
+              "name": "AccountBankTab_9",
+              "enumValue": 23,
+              "nilable": false
+            }
+          ],
+          "type": "Enumeration",
+          "name": "BagIndex"
+        }
+      ]
+    },
+    {
+      "name": "Container",
+      "namespace": "C_Container",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "BagIndex",
+              "name": "containerIndex",
+              "nilable": false
+            },
+            {
+              "type": "luaIndex",
+              "name": "slotIndex",
+              "nilable": false
+            }
+          ],
+          "name": "GetContainerItemInfo",
+          "returns": [
+            {
+              "type": "ContainerItemInfo",
+              "name": "containerInfo",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "BagIndex",
+              "name": "containerIndex",
+              "nilable": false
+            },
+            {
+              "type": "luaIndex",
+              "name": "slotIndex",
+              "nilable": false
+            }
+          ],
+          "name": "GetContainerItemLink",
+          "returns": [
+            {
+              "type": "cstring",
+              "name": "itemLink",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "BagIndex",
+              "name": "containerIndex",
+              "nilable": false
+            }
+          ],
+          "name": "GetContainerNumSlots",
+          "returns": [
+            {
+              "type": "number",
+              "name": "numSlots",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "literalName": "BAG_UPDATE_DELAYED",
+          "name": "BagUpdateDelayed",
+          "payload": []
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "Item",
+      "namespace": "C_Item",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "ItemInfo",
+              "name": "itemInfo",
+              "nilable": false
+            }
+          ],
+          "name": "GetItemInfo",
+          "returns": [
+            {
+              "type": "cstring",
+              "name": "itemName",
+              "nilable": false
+            },
+            {
+              "type": "cstring",
+              "name": "itemLink",
+              "nilable": false
+            },
+            {
+              "type": "ItemQuality",
+              "name": "itemQuality",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "itemLevel",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "itemMinLevel",
+              "nilable": false
+            },
+            {
+              "type": "cstring",
+              "name": "itemType",
+              "nilable": false
+            },
+            {
+              "type": "cstring",
+              "name": "itemSubType",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "itemStackCount",
+              "nilable": false
+            },
+            {
+              "type": "cstring",
+              "name": "itemEquipLoc",
+              "nilable": false
+            },
+            {
+              "type": "fileID",
+              "name": "itemTexture",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "sellPrice",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "classID",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "subclassID",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "bindType",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "expansionID",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "setID",
+              "nilable": true
+            },
+            {
+              "type": "bool",
+              "name": "isCraftingReagent",
+              "nilable": false
+            },
+            {
+              "type": "cstring",
+              "name": "itemDescription",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "cstring",
+              "name": "itemLink",
+              "nilable": false
+            }
+          ],
+          "name": "GetItemStats",
+          "returns": [
+            {
+              "type": "LuaValueVariant",
+              "name": "statTable",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "ItemInfo",
+              "name": "itemInfo",
+              "nilable": false
+            }
+          ],
+          "name": "RequestLoadItemDataByID",
+          "returns": []
+        }
+      ],
+      "events": [
+        {
+          "literalName": "ITEM_DATA_LOAD_RESULT",
+          "name": "ItemDataLoadResult",
+          "payload": [
+            {
+              "type": "number",
+              "name": "itemID",
+              "nilable": false
+            },
+            {
+              "type": "bool",
+              "name": "success",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "MapUI",
+      "namespace": "C_Map",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "number",
+              "name": "uiMapID",
+              "nilable": false
+            }
+          ],
+          "name": "CanSetUserWaypointOnMap",
+          "returns": [
+            {
+              "type": "bool",
+              "name": "canSet",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "number",
+              "name": "areaID",
+              "nilable": false
+            }
+          ],
+          "name": "GetAreaInfo",
+          "returns": [
+            {
+              "type": "cstring",
+              "name": "name",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "UiMapPoint",
+              "name": "point",
+              "nilable": false
+            }
+          ],
+          "name": "SetUserWaypoint",
+          "returns": [
+            {
+              "type": "bool",
+              "name": "wasSet",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "literalName": "ZONE_CHANGED_NEW_AREA",
+          "name": "ZoneChangedNewArea",
+          "payload": []
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "MerchantFrame",
+      "namespace": "C_MerchantFrame",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "luaIndex",
+              "name": "index",
+              "nilable": false
+            }
+          ],
+          "name": "GetItemInfo",
+          "returns": [
+            {
+              "type": "MerchantItemInfo",
+              "name": "info",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "tables": []
+    },
+    {
+      "name": "PaperDollInfo",
+      "namespace": "C_PaperDollInfo",
+      "functions": [],
+      "events": [
+        {
+          "literalName": "PLAYER_EQUIPMENT_CHANGED",
+          "name": "PlayerEquipmentChanged",
+          "payload": [
+            {
+              "type": "number",
+              "name": "equipmentSlot",
+              "nilable": false
+            },
+            {
+              "type": "bool",
+              "name": "hasCurrent",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "QuestLog",
+      "namespace": "C_QuestLog",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "number",
+              "name": "questID",
+              "nilable": false
+            }
+          ],
+          "name": "GetQuestObjectives",
+          "returns": [
+            {
+              "type": "table",
+              "name": "objectives",
+              "innerType": "QuestObjectiveInfo",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "number",
+              "name": "questID",
+              "nilable": false
+            }
+          ],
+          "name": "IsOnQuest",
+          "returns": [
+            {
+              "type": "bool",
+              "name": "isOnQuest",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "number",
+              "name": "questID",
+              "nilable": false
+            }
+          ],
+          "name": "IsQuestFlaggedCompleted",
+          "returns": [
+            {
+              "type": "bool",
+              "name": "isCompleted",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "literalName": "QUEST_LOG_UPDATE",
+          "name": "QuestLogUpdate",
+          "payload": []
+        },
+        {
+          "literalName": "QUEST_TURNED_IN",
+          "name": "QuestTurnedIn",
+          "payload": [
+            {
+              "type": "number",
+              "name": "questID",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "xpReward",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "moneyReward",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "SpecializationInfo",
+      "namespace": "C_SpecializationInfo",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "bool",
+              "name": "isInspect",
+              "nilable": true
+            },
+            {
+              "type": "bool",
+              "name": "isPet",
+              "nilable": true
+            },
+            {
+              "type": "luaIndex",
+              "name": "specGroupIndex",
+              "nilable": true
+            }
+          ],
+          "name": "GetSpecialization",
+          "returns": [
+            {
+              "type": "luaIndex",
+              "name": "specializationIndex",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "arguments": [
+            {
+              "type": "luaIndex",
+              "name": "specializationIndex",
+              "nilable": false
+            },
+            {
+              "type": "bool",
+              "name": "isInspect",
+              "default": false,
+              "nilable": false
+            },
+            {
+              "type": "bool",
+              "name": "isPet",
+              "default": false,
+              "nilable": false
+            },
+            {
+              "type": "string",
+              "name": "inspectTarget",
+              "nilable": true
+            },
+            {
+              "type": "number",
+              "name": "sex",
+              "nilable": true
+            },
+            {
+              "type": "luaIndex",
+              "name": "groupIndex",
+              "nilable": true
+            },
+            {
+              "type": "number",
+              "name": "classID",
+              "nilable": true
+            }
+          ],
+          "name": "GetSpecializationInfo",
+          "returns": [
+            {
+              "type": "number",
+              "name": "specId",
+              "default": 0,
+              "nilable": false
+            },
+            {
+              "type": "string",
+              "name": "name",
+              "nilable": true
+            },
+            {
+              "type": "string",
+              "name": "description",
+              "nilable": true
+            },
+            {
+              "type": "fileID",
+              "name": "icon",
+              "nilable": true
+            },
+            {
+              "type": "string",
+              "name": "role",
+              "nilable": true
+            },
+            {
+              "type": "luaIndex",
+              "name": "primaryStat",
+              "nilable": true
+            },
+            {
+              "type": "number",
+              "name": "pointsSpent",
+              "default": 0,
+              "nilable": false
+            },
+            {
+              "type": "string",
+              "name": "background",
+              "nilable": true
+            },
+            {
+              "type": "number",
+              "name": "previewPointsSpent",
+              "default": 0,
+              "nilable": false
+            },
+            {
+              "type": "bool",
+              "name": "isUnlocked",
+              "default": true,
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "tables": []
+    },
+    {
+      "name": "SpellBook",
+      "namespace": "C_SpellBook",
+      "functions": [
+        {
+          "returns": [
+            {
+              "type": "bool",
+              "name": "contains",
+              "nilable": false
+            }
+          ],
+          "documentation": "Returns true if player knows any Disenchant spells",
+          "name": "ContainsAnyDisenchantSpell",
+          "arguments": []
+        }
+      ],
+      "events": [],
+      "tables": []
+    },
+    {
+      "name": "SuperTrackManager",
+      "namespace": "C_SuperTrack",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "bool",
+              "name": "superTracked",
+              "nilable": false
+            }
+          ],
+          "name": "SetSuperTrackedUserWaypoint",
+          "returns": []
+        }
+      ],
+      "events": [],
+      "tables": []
+    },
+    {
+      "name": "SystemInfo",
+      "namespace": "C_System",
+      "functions": [],
+      "events": [
+        {
+          "literalName": "PLAYER_LOGIN",
+          "name": "PlayerLogin",
+          "payload": []
+        }
+      ],
+      "tables": []
+    },
+    {
+      "name": "TooltipInfo",
+      "namespace": "C_TooltipInfo",
+      "functions": [
+        {
+          "arguments": [
+            {
+              "type": "cstring",
+              "name": "hyperlink",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "optionalArg1",
+              "nilable": true
+            },
+            {
+              "type": "number",
+              "name": "optionalArg2",
+              "nilable": true
+            },
+            {
+              "type": "bool",
+              "name": "hideVendorPrice",
+              "nilable": true
+            }
+          ],
+          "name": "GetHyperlink",
+          "returns": [
+            {
+              "type": "TooltipData",
+              "name": "data",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "tables": []
+    },
+    {
+      "name": "Unit",
+      "namespace": null,
+      "functions": [],
+      "events": [
+        {
+          "literalName": "PLAYER_LEVEL_UP",
+          "name": "PlayerLevelUp",
+          "payload": [
+            {
+              "type": "number",
+              "name": "level",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "healthDelta",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "powerDelta",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "numNewTalents",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "numNewPvpTalentSlots",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "strengthDelta",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "agilityDelta",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "staminaDelta",
+              "nilable": false
+            },
+            {
+              "type": "number",
+              "name": "intellectDelta",
+              "nilable": false
+            }
+          ]
+        },
+        {
+          "literalName": "PLAYER_REGEN_ENABLED",
+          "name": "PlayerRegenEnabled",
+          "payload": []
+        },
+        {
+          "literalName": "PLAYER_XP_UPDATE",
+          "name": "PlayerXpUpdate",
+          "payload": [
+            {
+              "type": "UnitTokenVariant",
+              "name": "unitTarget",
+              "nilable": false
+            }
+          ]
+        }
+      ],
+      "tables": []
+    }
+  ]
+}

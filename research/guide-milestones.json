@@ -1,0 +1,108 @@
+{
+  "1": {
+    "alliance": "Human starting example: A Threat Within, then Kobold Camp Cleanup. Dwarf and Night Elf characters should finish their own starting-area introductions before choosing a travel route.",
+    "horde": "Undead starting example: Rude Awakening. Orc/Troll starting example: Your Place In The World. Follow your own starting-area chain rather than traveling to another race's start.",
+    "gear": "Priest planning: at Classic level 5, check Lesser Magic Wand as an early damage goal. It is a planning reference, not a bundled Forever item benchmark; keep any usable starting weapon until the live requirement is confirmed.",
+    "craft": "Consider an enchanter-made Lesser Magic Wand or a low-cost purchase when available. Do not change professions or spend travel money solely because a Classic guide names the item.",
+    "gate": "Finish your race's starter handoffs and class introduction. A named starting example is not a cross-race quest offer.",
+    "sources": ["starter", "undeadStart", "trollStart", "classicWeapons", "foreverWands"]
+  },
+  "6": {
+    "alliance": "Elwynn example: combine Kobold Candles with Gold Dust Exchange when offered. Other starting zones should finish their local chain before a long trip to Westfall.",
+    "horde": "Tirisfal example: The Chill of Death can be planned with nearby Brill errands; confirm the required thread and pelts in the quest log. Durotar characters should finish their own local chain.",
+    "classQuest": "Priest-only Classic level-10 checks: Human/Dwarf Desperate Prayer, Night Elf Returning Home, Troll Hex of Weakness, Undead Touch of Weakness. Forever's racial-spell rules must be checked at the trainer.",
+    "gear": "Retain or inspect an affordable Lesser Magic Wand. The source-confirmed Forever Fire Wand (ID 5069) requires level 7, but its acquisition source was not established; do not invent a vendor or farming trip.",
+    "craft": "Save cloth for useful bags or your chosen profession. Compare the cost of buying an early wand with crafting it; recipe access and live profession rules are not inferred.",
+    "gate": "Class training and a safe exit from the starting zone take priority over optional elite finales. Confirm the actual wand requirement and weapon training.",
+    "sources": ["candles", "chill", "priestQuests", "fireWand", "classicWeapons"]
+  },
+  "11": {
+    "alliance": "Westfall example: advance The Defias Brotherhood handoffs while combining local quest loops. Do not enter Deadmines with only the first chain step in your log.",
+    "horde": "Crossroads example: start The Forgotten Pools and the oases investigations. This is preparation toward the later Leaders of the Fang dungeon quest, not an instruction to enter Wailing Caverns immediately.",
+    "gear": "Priest planning: Greater Magic Wand is a Classic level-13 milestone. A Forever guide also reports it at 13; actual price, binding, usability and improvement over your owned wand still require inspection.",
+    "craft": "The Forever guide reports Greater Magic Wand at Enchanting 70. Check the live recipe or ask an enchanter; purchase may cost less than training a profession just for this item.",
+    "gate": "Defias and oases handoffs must be progressed before their final dungeon objectives. Minimum quest levels do not establish a safe party level.",
+    "sources": ["defias", "oases", "wcQuests", "classicWeapons", "foreverWands"]
+  },
+  "16": {
+    "alliance": "Finish the supported Defias chain, collect its final dungeon quest and plan one prepared Deadmines visit. Staff of Westfall is a source-backed acquisition candidate; check weapon training before selecting it.",
+    "horde": "Progress the oases investigation and its Thunder Bluff handoffs before Leaders of the Fang. Collect Serpentbloom if offered before the Wailing Caverns run; do not assume the group can finish every collection in one visit.",
+    "gear": "Holy Priest: compare the verified Pristine Gloves record with what you own. For a Classic Horde weapon reference, Crescent Staff is a Leaders of the Fang reward; its Forever stats and eligibility are not bundled as a benchmark.",
+    "classQuest": "At Classic level 20, Priest racial quest checks differ by race: A Lack of Fear, Arcane Feedback, Elune's Grace, Shadowguard or Devouring Plague. Treat these as trainer checks in Forever, not guaranteed unlocks.",
+    "craft": "Pristine Gloves is a source-confirmed level-15 item with Tailoring 75 and a maker restriction. Confirm pattern access and materials before reserving funds.",
+    "gate": "Plan the dungeon around all party members' actual readiness. A quest reward may be one-time; choose it deliberately and avoid duplicate acquisition if already owned.",
+    "sources": ["defias", "wcQuests", "forever", "priestQuests"]
+  },
+  "21": {
+    "alliance": "Collect The Fury Runs Deep if eligible before a Stockade outing. For ordinary leveling, choose nearby Wetlands or Duskwood work rather than repeatedly traveling for an isolated item.",
+    "horde": "The Ashenvale Hunt is a named Splintertree Post objective to investigate when offered. Its creature targets can require help; do not treat the band as a soloability guarantee.",
+    "gear": "Prepare Pristine Leggings for level 25 only if the maker/profession gates fit your plan. Gravestone Scepter is a source-confirmed Forever item tied to Blackfathom Villainy for both factions; it is a quest-planning reference here, not a proven current-level ranking.",
+    "craft": "Check Tailoring 125, maker restrictions and the disputed Pristine Leggings recipe source before buying materials. Avoid crafting it if an owned alternative already meets your needs.",
+    "gate": "Collect available Blackfathom or Stockade quests before entry. The source lists Blackfathom Villainy from Classic level 18, but party readiness and live availability remain separate checks.",
+    "sources": ["forever", "ashenvale", "gravestone", "wcQuests"]
+  },
+  "26": {
+    "alliance": "Collect The Grand Betrayal before a planned Gnomeregan run; finish its available handoffs first. Continue the ordinary Wetlands/Duskwood route while forming the group.",
+    "horde": "Collect Rig Wars before Gnomeregan when available. Consider Razorfen Kraul as a separate prepared outing rather than assuming a Gnomeregan trip also advances its boss goals.",
+    "gear": "Use the verified Holy sample: Death Speaker Robes at source level 26, Death Speaker Mantle at 27, and Gilded Slippers at 30. Owned items and manual gate status change the adaptive action list.",
+    "craft": "Gilded Slippers requires source Tailoring 150 and level 30; check maker/workstation requirements. Keep the leggings recipe conflict visible rather than assuming it was resolved.",
+    "gate": "Quest pickup, dungeon difficulty, item wear level and recipe skill are different gates. Do not pay for a short-lived farm merely to fill a sample target.",
+    "sources": ["forever"]
+  },
+  "31": {
+    "alliance": "Use the early Tiger Mastery and Panther Mastery steps as a shared Stranglethorn circuit when suitable. Prepare Mythology of the Titans before a Scarlet Monastery Library visit if offered.",
+    "horde": "Use the same early mastery circuit when suitable; Into The Scarlet Monastery is a group-quest preparation check from Classic level 33. Test of Lore is worthwhile only if its earlier chain already fits your route.",
+    "gear": "Classic Priest references: Illusionary Rod or Hypnotic Blade from Arcanist Doan. Their Classic wear levels are around the next part of this band; verify the actual tooltip and compare a dagger plus off-hand as a set. No Forever ranking is asserted.",
+    "craft": "Review useful bag capacity, such as the Classic Mageweave Bag recipe, using gathered cloth. Do not push an expensive craft only to replace a functional bag or leveling item.",
+    "gate": "Check Library objectives before travel and obtain the Scarlet Key if your later-wing plan requires it. Do not send an Undead character to Compendium of the Fallen: the Classic guide excludes that race.",
+    "sources": ["quests30", "smQuests", "smLibrary", "tailoringClassic"]
+  },
+  "36": {
+    "alliance": "In the Name of the Light is a prepared multi-wing Scarlet Monastery objective. Its Classic prerequisite is Down the Scarlet Path; verify the chain before planning the party route.",
+    "horde": "Into The Scarlet Monastery is the corresponding multi-wing objective. Agree on Library, Armory and Cathedral targets with the group instead of assuming one wing completes it.",
+    "gear": "Classic quest references: Orb of Lorica for Alliance or Prophetic Cane for Horde as off-hand choices. Keep a strong existing weapon if the complete one-hand/off-hand combination is not clearly better.",
+    "craft": "Preserve travel and mobility funds. Craft practical bags or consumables only when their live cost and requirements justify the benefit; avoid filling every slot for the sake of a checklist.",
+    "gate": "Later wings and their bosses are harder than early wings. The Scarlet Key and prior quest chain are preparation checks, not proof your party is ready.",
+    "sources": ["smQuests", "smLibrary", "core"]
+  },
+  "41": {
+    "alliance": "Combine Wastewander Justice and Water Pouch Bounty in a Tanaris circuit. Start Screecher Spirits only when its travel fits the next dungeon plan.",
+    "horde": "Use the same Tanaris circuit and prepare Gahz'rilla and The Prophecy of Mosh'aru before the coordinated Zul'Farrak visit.",
+    "gear": "Classic Priest reference: inspect Blackbone Wand at a capital's wand vendor when already visiting. Do not make a long trip or assume it beats a good owned wand; Forever availability and value are unverified.",
+    "craft": "Stock appropriate food, drink and mana supplies before the run. Ask a crafter or buy only what you will use; the addon does not establish profession-specific potion usability.",
+    "gate": "Screecher Spirits precedes The Prophecy of Mosh'aru in the Classic chain. Confirm a party member's Mallet of Zul'Farrak before committing to Gahz'rilla.",
+    "sources": ["quests40", "zf", "wandProgression"]
+  },
+  "46": {
+    "alliance": "The Stave of Equinex leads to The Morrow Stone in the Classic Feralas route. Combine it with nearby work only when the live prerequisites and target difficulty fit.",
+    "horde": "Continue prepared Tanaris and Feralas objectives; finish The Prophecy of Mosh'aru before advancing The Ancient Egg. Reserve Jintha'Alor or other elite steps for suitable help.",
+    "gear": "Classic Priest references: Cairnstone Sliver from The Morrow Stone (Alliance) or Noxious Shooter from Noxxion in Maraudon. They are planning examples, not Forever-verified upgrades or guaranteed drops.",
+    "craft": "Review an eventual Runecloth Bag or other capacity upgrade against its recipe and material cost. Keep a reserve for essential training rather than forcing profession skill gains now.",
+    "gate": "A dungeon drop is uncertain; a quest reward still needs the entire chain. Keep the source's Sacred Mallet/Jintha'Alor preparation separate from ordinary solo leveling.",
+    "sources": ["zf", "morrow", "wandProgression", "tailoringClassic"]
+  },
+  "51": {
+    "alliance": "Batch Crystals of Power with the Eastern, Northern and Western Pylon investigations when offered in Un'Goro. Continue Felwood hubs when the next Un'Goro tasks are unsuitable.",
+    "horde": "Use the same crystal/pylon circuit; complete needed Yeh'kinya preparations before The God Hakkar in Sunken Temple rather than arriving without the chain.",
+    "gear": "Classic Priest reference: Rod of Corrosion from Shade of Eranikus in Sunken Temple. Assess the whole role set and actual requirements; the Forever record and drop likelihood are unverified.",
+    "craft": "Craft or buy a Runecloth Bag only after checking recipe access and useful capacity. Begin budgeting for confirmed lasting crafts; do not buy an expensive Classic endgame recipe on assumption alone.",
+    "gate": "Crystals of Power is a prerequisite for the pylon steps. Sunken Temple chains can include earlier dungeon objectives and travel; a class quest is not automatically offered to every profile.",
+    "sources": ["crystals", "quests50", "st", "zf", "wandProgression", "tailoringClassic"]
+  },
+  "56": {
+    "alliance": "Batch Demon Dogs, Blood Tinged Skies and Carrion Grubbage from Tirion Fordring. That's Asking A Lot is a preparation check before When Smokey Sings, I Get Violent.",
+    "horde": "The same neutral Tirion circuit can fit the final leveling push. Plan the Smokey chain only if its supply costs and dangerous objectives make sense for your character or group.",
+    "gear": "Classic Priest reference: Smokey's Fireshooter from When Smokey Sings, I Get Violent. Treat a possible reward as a reason to prepare the chain, not a claim that its guarded objectives are safe solo.",
+    "craft": "Priest-only long-term Classic reference: Truefaith Vestments, a Tailoring 300 craft with a maker/class restriction. Verify Forever recipe availability before reserving rare materials or changing professions.",
+    "gate": "Keep normal quest mobs separate from elite finales and dungeon access tasks. Keys, party readiness and quest eligibility must be confirmed in the live game.",
+    "sources": ["tirion", "smokey", "wandProgression", "truefaith"]
+  },
+  "60": {
+    "alliance": "If available and relevant, combine Attunement to the Core with an agreed Blackrock Depths route. Choose one access goal and one role-gearing goal for the session.",
+    "horde": "Use the same neutral attunement planning check if available. Verify your faction's other access chains separately rather than assuming another player's completed prerequisites apply to you.",
+    "gear": "Classic Priest references: Truefaith Vestments as a profession option and Benediction as a later raid-linked objective. Neither is represented as verified Forever level-60 BiS; the current benchmark is unavailable.",
+    "craft": "Only commit to a lasting craft or enchant after confirming the live recipe, binding, profession and budget. Keep horizontal role sets separate from a percentage-to-BiS claim.",
+    "gate": "The Classic Benediction route begins with The Eye of Divinity from Majordomo Executus before The Balance of Light and Shadow. Actual Forever raid access, item availability and tuning are unverified.",
+    "sources": ["core", "truefaith", "benediction"]
+  }
+}
